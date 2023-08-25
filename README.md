@@ -3,7 +3,7 @@ this design recives  data from a sender device working on SPI protocol and sends
 The Serial Peripheral Interface (SPI) and Inter-Integrated Circuit (I2C) are 2 of the most widely used protocols for Serial communication
 
 
-/*Block Diagram*/
+### *Block Diagram*
 
 
 
