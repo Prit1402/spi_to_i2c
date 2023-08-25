@@ -20,3 +20,7 @@ The Serial Peripheral Interface (SPI) and Inter-Integrated Circuit (I2C) are 2 o
 
 ![1](https://github.com/Prit1402/spi_to_i2c/assets/109619517/0c4aefe8-0b40-49e8-a06a-340efa346f15)
 
+
+### *Synthesis*
+The following standard cells were invoked when mapped to the standard library file
+
